@@ -16,8 +16,12 @@
 
 例如：
 
+
 访问 http://localhost.com/#/sign-up?code=888888
+
 最后跳转到 http://url1.com/#/sign-up?code=888888
 
+
 访问 http://localhost.com/index.php?code=888888
+
 最后跳转到 http://url1.com/index.php?code=888888
