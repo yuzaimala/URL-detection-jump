@@ -2,7 +2,10 @@
 
 ![1707329936725.png](https://cdn-fusion.imgimg.cc/i/2024/egMJCAJnMpCdF3aj.png)
 
+
 功能：同时向全部URL发起请求，并将在倒计时结束后跳转到第一个访问成功的URL
+
+
 特性：URL使用base64编码，减少特征
 
 Telegram联系我：[@bobozhi](https://t.me/bobozhi "@bobozhi")
