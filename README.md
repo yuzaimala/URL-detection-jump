@@ -5,6 +5,8 @@
 功能：同时向全部URL发起请求，并将在倒计时结束后跳转到第一个访问成功的URL
 特性：URL使用base64编码，减少特征
 
+Telegram联系我：[@bobozhi](https://t.me/bobozhi "@bobozhi")
+
 ## 使用方法
 
  修改 js/app.38b00fb0.js 文件，修改第43行填入base64编码后的URL
